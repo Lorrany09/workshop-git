@@ -12,6 +12,8 @@ Projeto destinado a ensinar os comandos básicos do github no workshop fellowshi
 - git push
 - git pull
 - git merge <branch>
+- git checkout <nome-da-branch>
+- git checkout -b <novo-nome-da-branch>
 
 
 
