@@ -12,3 +12,18 @@ Projeto destinado a ensinar os comandos básicos do github no workshop fellowshi
 - git push
 - git pull
 - git merge <branch>
+
+
+
+### Commit Semânticos 
+- feat: Indica a criação de uma nova funcionalidade para o usuário.
+- fix: Utilizado para a correção de erros e bugs.
+- docs: Mudanças exclusivas na documentação (como o README).
+- test: Criação ou alteração de testes automatizados.
+- refactor: Alteração de código que não corrige bugs nem adiciona recursos, mas melhora a estrutura.
+- style: Mudanças de formatação que não alteram o significado do código (espaços, ponto e vírgula).
+- chore: Tarefas de manutenção de build ou ferramentas, sem mexer no código de produção
+
+## Atividade
+
+- Como primeira atividade realizaremos um Pull Request para a main utilizando um commit 
